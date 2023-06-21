@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+
 *,*::before,*::after{
     margin: 0;
     padding: 0;
@@ -8,11 +10,15 @@
 body{
     position: relative;
     min-height: 100vh;
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 1.7;
+    color: #F8F7F7;
+    padding: 30px;
 }
 
 a,p{
-    font-family: Gilroy-Heavy', sans-serif;
-    font-weight: 400
     font-size: 18px;
 }
 
