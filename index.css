@@ -370,3 +370,75 @@ main{
     color: #ffffff;
     background-color: #0065FE;
 }
+.main__section--four{
+    height: 523px;
+    width: 100%;
+    background-color: #1E3448;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .main__section--four img{
+     position: absolute;
+ }
+
+ .blob__left{
+     left: 0;
+     top: 0;
+ }
+
+ .blob__right{
+     right: 0;
+     top: 0;
+ }
+
+ .main__section--four form{
+     background-color: #ffffff;
+     padding: 42px;
+     border-radius: 12px;
+     display: inherit;
+     flex-direction: column;
+     align-items: flex-start;
+     justify-content: center;
+     gap: 24px;
+ }
+
+ .main__section--four  form  input{
+     padding: 8px 12px;
+     border-radius: 12px;
+     width: 100%;
+     border: solid 1px #005AE2;
+ }
+
+ .main__section--four form .flex--container{
+     display: inherit;
+     gap: 12px;
+ }
+
+ ::placeholder{
+     color: #005AE2;
+     font-family: Gilroy-medium;
+ }
+
+ .form--btn{
+     padding: 12px 24px;
+     border-radius: 100px;
+     background-color: #005AE2;
+     border: none;
+     font-size: 14px;
+     color: #ffffff;
+     width: 100%;
+ }
+
+ .form--btn img{
+     margin: -5px  0 0 5px;
+ }
+
+ .main__section--four form p{
+     color: #005AE2;
+     font-size: 14px;
+     line-height: 20px;
+ }
