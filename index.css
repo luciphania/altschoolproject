@@ -615,9 +615,8 @@ footer{
     color: var(--primary-color);
 }
 
-/* Footer End */
 
-/* Media Queries */
+
 @media (max-width:768px){
 
     .hero_heading h1{
