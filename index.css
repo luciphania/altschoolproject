@@ -41,7 +41,7 @@
 
 
 
-/* Utility Class Start */
+
 
 .btn_outline{
     padding: 12px 24px;
@@ -86,15 +86,15 @@
     border-radius: 100px;
 }
 
-/* Utility Class End */
+
 
 
 main{
-    /* max-width: 1280px; */
+
     margin: 0 auto;
 }
 
-/* Navigation start */
+
 
 .hero_section{
     padding: 12px 8px 0 8px;
@@ -139,18 +139,16 @@ nav{
 }
 
 
-/* Navigation End */
 
-/* Hero Content Start */
+
+
 .hero_head_container{
     margin: 106px auto 0 auto;
     text-align: center;
     max-width: 948px;
 }
 
-/* .hero_heading{
-    position: relative;
-} */
+
 
 .hero_heading h1{
     font-size: 48px;
@@ -158,10 +156,7 @@ nav{
     font-weight: bold;
 }
 
-/* .underline{
-    position: absolute;
 
-} */
 
 .hero_heading h1 span{
     color: var(--primary-color);
@@ -237,9 +232,9 @@ nav{
     font-size: 16px;
 }
 
-/* Hero Content End */
 
-/* Why Us Start */
+
+
 
 .why_us{
     margin: 120px 0 0 0;
@@ -289,9 +284,9 @@ nav{
     line-height: 28px;
 }
 
-/* Why Us End */
 
-/* Pricing Start */
+
+
 
 .pricing{
 margin-top: 172px;
@@ -380,9 +375,9 @@ margin-top: 172px;
     gap: 16px
 }
 
-/* Pricing Ends */
 
-/* Trim URL Start */
+
+
 
 .trim{
     margin-top: 112px;
@@ -472,9 +467,9 @@ margin-top: 172px;
     line-height: 28px;
     font-size: 14px;
 }
-/* Trim URL End */
 
-/* FAQ Start */
+
+
 .faqs{
     background-image: url("../asset/FAQs.svg");
     background-position: center;
@@ -519,9 +514,7 @@ margin-top: 172px;
     border-bottom: 1px solid #D6D6D6;
 }
 
-/* FAQ End */
 
-/* CTA Start */
 
 .cta{
     background-image: url("../asset/cta_bck.svg");
@@ -546,9 +539,8 @@ margin-top: 172px;
 .cta_container button{
     text-align: center;
 }
-/* CTA End */
 
-/* Footer Start */
+
 
 footer{
     background-image: url("../asset/footer.svg");
